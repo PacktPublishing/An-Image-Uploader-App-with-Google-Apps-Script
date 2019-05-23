@@ -1,5 +1,5 @@
 # An Image Uploader App with Google Apps Script [Video]
-This is the code repository for [A Dynamic Quiz App using Google Apps Script with Google Sheets as the Data Source [Video]]( https://www.packtpub.com/application-development/image-uploader-app-google-apps-script-video?utm_source=github&utm_medium=repository&utm_campaign=9781838552121), published by [Packt](https://www.packtpub.com/?utm_source=github). It contains all the supporting project files necessary to work through the video course from start to finish.
+This is the code repository for [An Image Uploader App with Google Apps Script [Video]]( https://www.packtpub.com/application-development/image-uploader-app-google-apps-script-video?utm_source=github&utm_medium=repository&utm_campaign=9781838552121), published by [Packt](https://www.packtpub.com/?utm_source=github). It contains all the supporting project files necessary to work through the video course from start to finish.
 ## About the Video Course
 Google Apps Script provides an amazingly easy way to unite the power of the Google Suite of products using the cloud-based JavaScript language. Within the course, we walk you through creating an image uploader from scratch that can allow users to upload images to your Google Drive, track uploaded images with paths in Google Sheets, notify you of the upload, and more. 
 This Course is an introduction to using Apps Script; it's perfect for those who have never used Apps Script before and want to get started with it. JavaScript knowledge is essential as the scripting language is based on JavaScript; an understanding of JavaScript will facilitate getting started with this Course.
@@ -28,3 +28,4 @@ Internet Access Google Account
 * [A Dynamic Quiz App using Google Apps Script with Google Sheets as the Data Source [Video]](https://www.packtpub.com/application-development/dynamic-quiz-app-using-google-apps-script-google-sheets-data-source-video?utm_source=github&utm_medium=repository&utm_campaign=9781838552121)
 
 * [A Dynamic Quiz App using Google Apps Script with Google Sheets as the Data Source [Video]](https://www.packtpub.com/application-development/dynamic-quiz-app-using-google-apps-script-google-sheets-data-source-video?utm_source=github&utm_medium=repository&utm_campaign=9781838552121)
+
