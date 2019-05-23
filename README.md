@@ -16,7 +16,7 @@ Using this course, you have a wide variety of options where you can take the cod
 To fully benefit from the coverage included in this course, you will need:<br/>
 <UL><LI>Fundamentals of JavaScript HTML</LI>
 <LI>Web development skills</LI>
-<LI>Desire to Learn Apps Script</LI>
+<LI>Desire to Learn Apps Script</LI><UL>
 ### Technical Requirements
 This course has the following software requirements:<br/>
 Internet Access Google Account
